@@ -15,7 +15,7 @@ export  function App() {
             Icon={Mail}
             labelText="Digite o seu email" 
             id="email" 
-            type="text" 
+            type="email" 
             placeholder="E-mail"
             />
 

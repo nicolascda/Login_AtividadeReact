@@ -1,0 +1,20 @@
+:root {
+    /* --text-muted: #aab3cc; */
+    --disabled: #555f7d;
+    --text-disabled: #aab3cc;
+
+    --primary-color: #6366f1;
+    /* Destaque principal e botões */
+    --secondary-color: #4f46e5;
+    /* Estado de interação (hover) */
+    --bg-dark: #0f172a;
+    /* Fundo principal da página */
+    --bg-card: #1e293b;
+    /* Fundo do formulário de login */
+    --text-main: #f8fafc;
+    /* Títulos e textos importantes */
+    --text-muted: #94a3b8;
+    /* Placeholders e legendas */
+    --error-color: #ef4444;
+        
+}
